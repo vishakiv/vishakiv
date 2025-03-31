@@ -1,7 +1,7 @@
 
 # Hi, I'm Vishaki Vijayakumar. 
 
-I'm a **Data Analyst** based in *Berlin**.
+I'm a **Data Analyst** based in **Berlin**.
 
 # 💫 About Me:
 🔭 I’m currently working on data analytics and visualisation projects
