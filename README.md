@@ -4,9 +4,8 @@
 I'm a **Data Analyst** based in **Berlin**.
 
 # 💫 About Me:
-🔭 I’m currently working on data analytics and visualisation projects
-<br>👯 I’m looking to collaborate on any data projects related to women’s football<br>
-<br>🌱 I’m currently learning SQL, Python and Tableau.<br>
+🔭 I’m currently working on a series data analytics and visualisation projects related to women’s football.
+<br> 🌱 I’m currently learning SQL, Python and Tableau.<br>
 
 ## 📚 Skills:
 - Data Analysis with Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
