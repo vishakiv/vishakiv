@@ -1,5 +1,5 @@
 
-# Hey, I'm Vishaki Vijayakumar. 
+# Hey, I'm Vishaki. Nice of you to drop by! 
 
 **Welcome to my GitHub page!**
 
