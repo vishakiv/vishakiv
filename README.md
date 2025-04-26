@@ -56,5 +56,5 @@ What about outside of work? Here are a few fun facts 😀:
 ---
 
 #### My precious doggo Romi 
-![Romi](./IMG_5819.HEIC)
+![Romi](./IMG_5819.jpg)
 
