@@ -1,8 +1,6 @@
 
 # Hey, I'm Vishaki. Nice of you to drop by! 
 
-**Welcome to my GitHub page!**
-
 ### 💫  About me
 
 **Professional me**  
@@ -14,7 +12,7 @@ I'm passionate about applying a narrative-driven lens to data - that means ensur
 What about outside of work? Here are a few fun facts 😀:  
   - I am an avid language learner. I speak 7 languages and am currently learning Dutch and Portuguese.
   - I am a football coach for a girls' U-11 football team in Berlin.
-  - I love anything to do with the written word: puzzles, novels, texting, news and great journalism..
+  - I love anything to do with the written word: puzzles, novels, texting, and in-depth journalism are all very much my jam.
   - A home-cooked meal with dessert at a café, a great book, some sun and catching up with friends would make up my ideal relaxing day.
 
 
@@ -26,14 +24,15 @@ What about outside of work? Here are a few fun facts 😀:
 
 ---
 
-### 💬 Ask me about:
+### 💬 Ask me about
 - Language learning tips and tricks
 - Women’s football
+- Storytelling and creating narrative through data
 - Creating interactive visualisations using Python’s Plotly library
 
 ---
 
-### 🌐 Let’s connect! Feel free to reach out if you want to chat or collaborate:
+### 🌐 Let’s connect! Feel free to reach out if you want to chat or collaborate
 
 - 📧 **Email**: [vishaki@gmail.com](mailto:vishaki@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/vishakiv](https://linkedin.com/in/vishaki)
@@ -41,7 +40,7 @@ What about outside of work? Here are a few fun facts 😀:
 
 ---
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -55,6 +54,6 @@ What about outside of work? Here are a few fun facts 😀:
 
 ---
 
-#### My precious doggo Romi 
+### 🐕 My precious doggo Romi 
 ![Romi](./IMG_5819.jpg)
 
