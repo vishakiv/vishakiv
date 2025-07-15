@@ -1,34 +1,31 @@
-
-# Hey, I'm Vishaki. Nice of you to drop by! 
-
-### 💫  About me
+# Hey, I'm Vishaki. Nice of you to drop by!
 
 **Professional me**  
-I'm a Data Analyst based in Berlin, with a background in **linguistics, communication and teaching**.
-I'm passionate about applying a narrative-driven lens to data - that means ensuring that data not only **informs decisions** but tells **powerful stories** and brings **visibility**
- through clear, purposeful communication. 
+I'm a Data Analyst based in Berlin, with a background in linguistics, communication and teaching.
+I'm passionate about using data to drive social and business outcomes through powerful storytelling and clear, insightful visualizations.
 
 **Personal me**  
-What about outside of work? Here are a few fun facts 😀:  
+What about outside of work? Here are a few fun facts:  
   - I am an avid language learner. I speak 7 languages and am currently learning Dutch and Portuguese.
   - I am a football coach for a girls' U-11 football team in Berlin.
   - I love anything to do with the written word: puzzles, novels, texting, and in-depth journalism are all very much my jam.
-  - A home-cooked meal with dessert at a café, a great book, some sun and catching up with friends would make up my ideal relaxing day.
-
 
 ---
 
-### 🌱 What am I working on?
-- Using **Python** and **Tableau** to present a series of **visualisation and data journalism projects** which shine a spotlight and tell engaging stories about the growth of **women’s football**⚽
-- Learning, learning, learning! I am currently studying for a Data Analyst Certification on Datacamp. This certification provides evidence of expertise in data management, programming, and modeling skills in **Python** and **SQL**📚🤓
+## Problem-solving and Portfolio projects
+
+### [From Margins to Main Stage](https://github.com/vishakiv/Margins_To_Main_Stage)
+Analyzed historical Women's World Cup data using Python and data from FBref and Kaggle.
+Created an interactive web-app that incorporates visualizations and journalistic story-telling to present a data-driven narrative around the development of international women's football.
 
 ---
 
-### 💬 Ask me about
-- Language learning tips and tricks
-- Women’s football
-- Storytelling and creating narrative through data
-- Creating interactive visualisations using Python’s Plotly library
+## Skills
+**Languages & Libraries**
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=postgresql,python,pandas,numpy,matplotlib,seaborn,excel)
+
+**Tools**
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=tableau,vscode,github,dbeaver,bash,sqlalchmey,git,jupyter)
 
 ---
 
