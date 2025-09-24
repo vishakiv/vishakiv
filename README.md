@@ -14,7 +14,7 @@ What about outside of work? Here are a few fun facts:
 
 ## Problem-solving and Portfolio projects
 
-### [From Margins to Main Stage](https://github.com/vishakiv/Margins_To_Main_Stage)
+### [From Margins to Main Stage](https://github.com/vishakiv/Margins_To_Main_Stage) (Exploratory Data Visualisation)
 Analyzed historical Women's World Cup data using Python and data from FBref and Kaggle.
 Created an interactive Streamlit web-app that incorporates visualizations and journalistic story-telling to present a data-driven narrative around the development of international women's football.
 
@@ -23,7 +23,7 @@ Developed a Python program to automate API data retrieval, cleaning, and reporti
 Streamlined end-to-end reporting by generating automated, bespoke visualizations (Matplotlib), enabling faster and more efficient analysis of players
 across the top 5 European leagues.
 
-### Databel Customer Churn Dashboard
+### Databel Customer Churn Dashboard (Tableau)
 Built an interactive Tableau dashboard to track customer churn rates, explore the reasons why customers might be deciding to leave Databel, and provide insights into how to improve customer retention.
 
 ---
