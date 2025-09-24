@@ -18,7 +18,7 @@ What about outside of work? Here are a few fun facts:
 Analyzed historical Women's World Cup data using Python and data from FBref and Kaggle.
 Created an interactive Streamlit web-app that incorporates visualizations and journalistic story-telling to present a data-driven narrative around the development of international women's football.
 
-### Evaluating player shot outputs - Data Automation and Scripting
+### Evaluating player shot outputs (Data Automation and Scripting)
 Developed a Python program to automate API data retrieval, cleaning, and reporting for player performance data from Understat.com
 Streamlined end-to-end reporting by generating automated, bespoke visualizations (Matplotlib), enabling faster and more efficient analysis of players
 across the top 5 European leagues.
